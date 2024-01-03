@@ -9,6 +9,14 @@ updates:
     commit-message:
       prefix: 'feat:'
 
+  - package-ecosystem: "gitsubmodule"
+    directory: "/github/"
+    allow:
+      - dependency-name: "hslatman/caddy-crowdsec-bouncer"
+      - dependency-name: "caddy-dns/cloudflare"
+    schedule:
+      interval: "daily"
+
   - package-ecosystem: 'github-actions'
     directory: /
     schedule:
