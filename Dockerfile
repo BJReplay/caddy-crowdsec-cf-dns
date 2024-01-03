@@ -1,9 +1,9 @@
-FROM 2.7.6-builder AS builder
+FROM caddy:builder AS builder
 
-RUN xcaddy build v2.7.6 \
+RUN xcaddy build \
     --with github.com/hslatman/caddy-crowdsec-bouncer \
     --with github.com/caddy-dns/cloudflare
 
-FROM caddy:2.7.6
+FROM caddy:latest
 
 COPY --from=builder /usr/bin/caddy /usr/bin/caddy
