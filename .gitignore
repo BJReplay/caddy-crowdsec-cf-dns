@@ -6,6 +6,7 @@
 /.vs/caddy-crowdsec-cf-dns/v17/Browse.VC.db-shm
 /.vs/caddy-crowdsec-cf-dns/v17/Browse.VC.db-wal
 /.vs/caddy-crowdsec-cf-dns/v17/Browse.VC.opendb
+/.vs/caddy-crowdsec-cf-dns/config
 /.vs/ProjectSettings.json
 /.vs/slnx.sqlite
 /.vs/VSWorkspaceState.json
