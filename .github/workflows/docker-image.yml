@@ -21,6 +21,11 @@ jobs:
         name: Checkout
         uses: actions/checkout@v4
       -
+        name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+      -
         name: Set up QEMU
         uses: docker/setup-qemu-action@v3
       -
