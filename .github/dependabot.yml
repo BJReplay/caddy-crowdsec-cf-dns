@@ -4,14 +4,14 @@ updates:
     directory: /
     schedule:
       interval: daily
-  - package-ecosystem: "gitsubmodule"
-    directory: "/github/"
+  - package-ecosystem: gitsubmodule
+    directory: /github/
     allow:
-      - dependency-name: "hslatman/caddy-crowdsec-bouncer"
-      - dependency-name: "caddy-dns/cloudflare"
+      - dependency-name: hslatman/caddy-crowdsec-bouncer
+      - dependency-name: caddy-dns/cloudflare
     schedule:
-      interval: "daily"
-  - package-ecosystem: 'github-actions'
+      interval: daily
+  - package-ecosystem: github-actions
     directory: /
     schedule:
       interval: daily
