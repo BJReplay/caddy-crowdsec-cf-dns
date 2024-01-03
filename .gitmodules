@@ -1,0 +1,6 @@
+[submodule "github/caddy-crowdsec-bouncer"]
+	path = github/caddy-crowdsec-bouncer
+	url = https://github.com/hslatman/caddy-crowdsec-bouncer
+[submodule "github/cloudflare"]
+	path = github/cloudflare
+	url = https://github.com/caddy-dns/cloudflare
