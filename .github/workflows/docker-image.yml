@@ -14,5 +14,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    - uses: github.com/hslatman/caddy-crowdsec-bouncer@v0.5.4
+    - uses: github.com/caddy-dns/cloudflare@v0.0.0-20230824131621-bfe272c8525b
+    - uses: github.com/caddyserver/caddy/v2@v2.7.6
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
