@@ -1,5 +1,0 @@
-"required": [
-    "github.com/hslatman/caddy-crowdsec-bouncer",
-    "github.com/caddy-dns/cloudflare",
-    "hub.docker.com/_/caddy",
-]

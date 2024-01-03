@@ -8,6 +8,9 @@ on:
       - README.md
       - .github/workflows/docker-description.yml
 
+env:
+  image_name: bjreplay/caddy-crowdsec-cf-dns
+
 jobs:
   sync:
     name: Docker README.md Sync
@@ -23,5 +26,5 @@ jobs:
         uses: peter-evans/dockerhub-description@v3
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
-          password: ${{ secrets.DOCKERHUB_PASSWORD }}
-          repository: 'BJReplay/caddy-crowdsec-cf-dns'
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+          repository:  ${{ env.image_name }}
