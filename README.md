@@ -1,4 +1,8 @@
 [![Docker Image CI](https://github.com/BJReplay/caddy-crowdsec-cf-dns/actions/workflows/docker-image.yml/badge.svg)](https://github.com/BJReplay/caddy-crowdsec-cf-dns/actions/workflows/docker-image.yml)
+
+[![CodeQL](https://github.com/BJReplay/caddy-crowdsec-cf-dns/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/BJReplay/caddy-crowdsec-cf-dns/actions/workflows/github-code-scanning/codeql)
+
+
 # caddy-crowdsec-cf-dns
 Caddy with Crowdsec Bouncer for Caddy and Cloudflare module for Caddy in a Docker image for linux amd64 and linux/arm64 (perfect for Oracle Cloud Free)
 
