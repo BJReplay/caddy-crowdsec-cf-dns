@@ -19,3 +19,5 @@ Now also includes the experimental module allowing you to run run commands on Ca
 Dependabot should rebuild if any of the modules change, and push to Docker.
 
 Docker tag is currently always latest, but if I can figure out how to combine versions from various components, might update it.
+
+Subscribe to Pull Requests to know when there is a new dependabot pull request and therefore a new build being pushed to Docker Hub.
