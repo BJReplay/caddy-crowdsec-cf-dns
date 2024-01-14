@@ -13,3 +13,9 @@ Caddy: https://github.com/caddyserver/caddy
 CrowdSec Bouncer for Caddy: https://github.com/hslatman/caddy-crowdsec-bouncer
 
 Cloudflare module for Caddy: https://github.com/caddy-dns/cloudflare
+
+Now also includes the experimental module allowing you to run run commands on Caddy events: https://github.com/mholt/caddy-events-exec
+
+Dependabot should rebuild if any of the modules change, and push to Docker.
+
+Docker tag is currently always latest, but if I can figure out how to combine versions from various components, might update it.
