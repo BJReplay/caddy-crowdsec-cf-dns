@@ -243,8 +243,8 @@ github.com/gorilla/context v0.0.0-20160226214623-1ea25387ff6f/go.mod h1:kBGZzfjB
 github.com/gorilla/mux v1.4.0/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/groob/finalizer v0.0.0-20170707115354-4c2ed49aabda/go.mod h1:MyndkAZd5rUMdNogn35MWXBX1UiBigrU8eTj8DoAC2c=
 github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T20WEQ=
-github.com/hslatman/caddy-crowdsec-bouncer v0.5.4 h1:6s+jqIBTur3iq8BjXrJCGh9Bf7GrYCr88Qdj3rRx7uk=
-github.com/hslatman/caddy-crowdsec-bouncer v0.5.4/go.mod h1:j7iYTuEGV0wplTaDrINWaTd3DXnaLX3J2TJDPZ0PBRc=
+github.com/hslatman/caddy-crowdsec-bouncer v0.6.0 h1:2yGHwG3bjuZjzFe328bI8899HjH49lB3nC5ueQOhwpM=
+github.com/hslatman/caddy-crowdsec-bouncer v0.6.0/go.mod h1:hmQV1w0kPxHsr7VKGJ73Z2p5bqc11mer+jqT5oKbtsQ=
 github.com/hslatman/cidranger v1.0.3-0.20210102151717-b2292da972c3 h1:Sv/aRgGM6Qpidn4IaCeW1M184rkdXCuKHCMGW3slpnY=
 github.com/hslatman/cidranger v1.0.3-0.20210102151717-b2292da972c3/go.mod h1:gcrMfr0dObt7Xdm3JrZqrshMoaCFs9Plkc+ID9ygSdY=
 github.com/hslatman/ipstore v0.0.0-20210131120430-64b55d649887 h1:/is/XCIDQs5vfEfRk7dV5rpnuindiJD6FMIGwMej4Go=
