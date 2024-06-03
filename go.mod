@@ -4,7 +4,7 @@ go 1.21.5
 
 require (
 	github.com/caddy-dns/cloudflare v0.0.0-20231220181002-8789126791ed
-	github.com/caddyserver/caddy/v2 v2.8.1
+	github.com/caddyserver/caddy/v2 v2.8.4
 	github.com/hslatman/caddy-crowdsec-bouncer v0.6.0
 )
 
@@ -20,7 +20,7 @@ require (
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/caddyserver/certmagic v0.21.2 // indirect
+	github.com/caddyserver/certmagic v0.21.3 // indirect
 	github.com/caddyserver/zerossl v0.1.3 // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
