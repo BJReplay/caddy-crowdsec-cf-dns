@@ -237,8 +237,8 @@ github.com/googleapis/enterprise-certificate-proxy v0.3.2/go.mod h1:VLSiSSBs/ksP
 github.com/googleapis/gax-go/v2 v2.12.4 h1:9gWcmF85Wvq4ryPFvGFaOgPIs1AQX0d0bcbGw4Z96qg=
 github.com/googleapis/gax-go/v2 v2.12.4/go.mod h1:KYEYLorsnIGDi/rPC8b5TdlB9kbKoFubselGIoBMCwI=
 github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T20WEQ=
-github.com/hslatman/caddy-crowdsec-bouncer v0.7.0 h1:uK+thPyh7c/vCTngAWyn7fahhm7E5iAvscS93i3zc2g=
-github.com/hslatman/caddy-crowdsec-bouncer v0.7.0/go.mod h1:vXAcLC/+/ujGaDDTmKzelAVH3ufQJJC0ZDiRiOd9wI0=
+github.com/hslatman/caddy-crowdsec-bouncer v0.7.1 h1:Nb4I1FWY2oh/HlIggaPVuechiZ2c1tiU6WAKpefQvvM=
+github.com/hslatman/caddy-crowdsec-bouncer v0.7.1/go.mod h1:vXAcLC/+/ujGaDDTmKzelAVH3ufQJJC0ZDiRiOd9wI0=
 github.com/hslatman/ipstore v0.3.0 h1:3lUtYZMDGRdDePFFL2wUIrpHqMsqzJEluDnQwt43cfs=
 github.com/hslatman/ipstore v0.3.0/go.mod h1:fUg+lu09+OKKllPSRSvE6OdJ8AZB4sAjHxqW6QChpmU=
 github.com/huandu/xstrings v1.3.3/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
