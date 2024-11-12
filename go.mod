@@ -6,7 +6,7 @@ toolchain go1.22.5
 require (
 	github.com/caddy-dns/cloudflare v0.0.0-20231220181002-8789126791ed
 	github.com/caddyserver/caddy/v2 v2.8.4
-	github.com/hslatman/caddy-crowdsec-bouncer v0.7.0
+	github.com/hslatman/caddy-crowdsec-bouncer v0.7.1
 )
 
 require (
