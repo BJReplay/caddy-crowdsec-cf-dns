@@ -1,4 +1,5 @@
 version: 2
+# Touch file to force update
 updates:
   - package-ecosystem: docker
     directory: /
