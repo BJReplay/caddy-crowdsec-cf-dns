@@ -1,5 +1,5 @@
 version: 2
-# Touch file to force update
+# Touch file to force update to pick up Caddy v2.9.0
 updates:
   - package-ecosystem: docker
     directory: /
