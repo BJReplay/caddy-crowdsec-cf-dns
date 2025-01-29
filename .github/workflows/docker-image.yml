@@ -3,7 +3,10 @@ name: Docker Image CI
 on:
   push:
     branches: [ "main" ]
+    
   pull_request:
+    types:
+      - closed
     branches: [ "main" ]
 
 env:
@@ -11,9 +14,8 @@ env:
   platforms: linux/amd64,linux/arm64
 
 jobs:
-
-  build:
-
+  if_merged:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
 
     steps:
