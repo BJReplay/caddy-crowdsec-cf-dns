@@ -3,19 +3,13 @@ name: Docker Image CI
 on:
   push:
     branches: [ "main" ]
-    
-  pull_request:
-    types:
-      - closed
-    branches: [ "main" ]
 
 env:
   image_name: bjreplay/caddy-crowdsec-cf-dns
   platforms: linux/amd64,linux/arm64
 
 jobs:
-  if_merged:
-    if: github.event.pull_request.merged == true
+  build-docker:
     runs-on: ubuntu-latest
 
     steps:
