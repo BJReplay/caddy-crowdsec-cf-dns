@@ -4,7 +4,7 @@ go 1.21.5
 toolchain go1.24.1
 
 require (
-	github.com/caddy-dns/cloudflare v0.0.0-20231220181002-8789126791ed
+	github.com/caddy-dns/cloudflare v0.1.0
 	github.com/caddyserver/caddy/v2 v2.9.1
 	github.com/hslatman/caddy-crowdsec-bouncer v0.8.1
 )
@@ -80,8 +80,8 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
-	github.com/libdns/cloudflare v0.1.0 // indirect
-	github.com/libdns/libdns v0.2.2 // indirect
+	github.com/libdns/cloudflare v0.1.3 // indirect
+	github.com/libdns/libdns v0.2.3 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
