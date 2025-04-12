@@ -4,6 +4,3 @@
 [submodule "github/cloudflare"]
 	path = github/cloudflare
 	url = https://github.com/caddy-dns/cloudflare
-[submodule "github/caddy-events-exec"]
-	path = github/caddy-events-exec
-	url = https://github.com/mholt/caddy-events-exec
