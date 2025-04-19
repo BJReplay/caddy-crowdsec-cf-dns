@@ -1,11 +1,11 @@
 module github.com/BJReplay/caddy-crowdsec-cf-dns
 
-go 1.21.5
+go 1.24
 toolchain go1.24.1
 
 require (
 	github.com/caddy-dns/cloudflare v0.1.0
-	github.com/caddyserver/caddy/v2 v2.9.1
+	github.com/caddyserver/caddy/v2 v2.10.0
 	github.com/hslatman/caddy-crowdsec-bouncer v0.8.1
 )
 
