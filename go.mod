@@ -1,6 +1,6 @@
 module github.com/BJReplay/caddy-crowdsec-cf-dns
 
-go 1.21.5
+go 1.24
 toolchain go1.24.1
 
 require (
