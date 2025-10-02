@@ -1,4 +1,6 @@
 name: 'Docker Publish Description'
+permissions:
+  contents: read
 
 on:
   push:
