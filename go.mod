@@ -3,7 +3,7 @@ module github.com/BJReplay/caddy-crowdsec-cf-dns
 go 1.25
 
 require (
-	github.com/caddy-dns/cloudflare v0.2.1
+	github.com/caddy-dns/cloudflare v0.2.2
 	github.com/caddyserver/caddy/v2 v2.10.2
 	github.com/hslatman/caddy-crowdsec-bouncer v0.9.2
 )
@@ -84,7 +84,7 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/klauspost/compress v1.18.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
-	github.com/libdns/cloudflare v0.2.1 // indirect
+	github.com/libdns/cloudflare v0.2.2 // indirect
 	github.com/libdns/libdns v1.1.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
