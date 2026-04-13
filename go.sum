@@ -116,8 +116,6 @@ github.com/cpuguy83/go-md2man/v2 v2.0.7 h1:zbFlGlXEAKlwXpmvle3d8Oe3YnkKIK4xSRTd3
 github.com/cpuguy83/go-md2man/v2 v2.0.7/go.mod h1:oOW0eioCTA6cOiMLiUPZOpcVxMig6NIQQ7OS05n1F4g=
 github.com/crowdsecurity/crowdsec v1.6.3 h1:L/6iT2/Gfl9bc9DQkHJz2BbpKM3P+yW6ocCKRyF4j1g=
 github.com/crowdsecurity/crowdsec v1.6.3/go.mod h1:LrdAX9l4vgaExQbNUVnvZIu/DPwD9pSE9gBj14D4MTo=
-github.com/crowdsecurity/go-cs-bouncer v0.0.14 h1:0hxOaa59pMT274qDzJXNxps4QfMnhSNss+oUn36HTpw=
-github.com/crowdsecurity/go-cs-bouncer v0.0.14/go.mod h1:4nSF37v7i98idHM6cw1o0V0XgiY25EjTLfFFXvqg6OA=
 github.com/crowdsecurity/go-cs-lib v0.0.15 h1:zNWqOPVLHgKUstlr6clom9d66S0eIIW66jQG3Y7FEvo=
 github.com/crowdsecurity/go-cs-lib v0.0.15/go.mod h1:ePyQyJBxp1W/1bq4YpVAilnLSz7HkzmtI7TRhX187EU=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -223,10 +221,10 @@ github.com/googleapis/enterprise-certificate-proxy v0.3.14/go.mod h1:vqVt9yG9480
 github.com/googleapis/gax-go/v2 v2.18.0 h1:jxP5Uuo3bxm3M6gGtV94P4lliVetoCB4Wk2x8QA86LI=
 github.com/googleapis/gax-go/v2 v2.18.0/go.mod h1:uSzZN4a356eRG985CzJ3WfbFSpqkLTjsnhWGJR6EwrE=
 github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T20WEQ=
-github.com/hslatman/caddy-crowdsec-bouncer v0.11.0 h1:3A31vFJsfk2cGF+tsO/gsPilOLXQ2i/FFuf2HI6Q7SA=
-github.com/hslatman/caddy-crowdsec-bouncer v0.11.0/go.mod h1:cYKHHafIqR+ul1+KjesU+rBjyIJKaDPfdhI23NwB3Uw=
-github.com/hslatman/ipstore v0.4.0 h1:s9HAmDwJ5gdpD1heI24XqDdWaZJvZfp7DERimtV50uw=
-github.com/hslatman/ipstore v0.4.0/go.mod h1:IauyP66Q5kk1mfjysfAfa2Y4AnN7tFLYJlYHhkPlEPY=
+github.com/hslatman/caddy-crowdsec-bouncer v0.12.0 h1:KDDyG2Cv2iKW5ncbgh6RZaqrVcBwZTeZVLeKrKbwIUg=
+github.com/hslatman/caddy-crowdsec-bouncer v0.12.0/go.mod h1:OjdH5gw41edO5vzxkMeQF5a/cvxs16Ll2XSFBXlddbQ=
+github.com/hslatman/ipstore v0.5.0 h1:pFbh8OKWOCttHwMvjtF9O02vPKI5HSHlhRk5hlO82rk=
+github.com/hslatman/ipstore v0.5.0/go.mod h1:IauyP66Q5kk1mfjysfAfa2Y4AnN7tFLYJlYHhkPlEPY=
 github.com/huandu/xstrings v1.5.0 h1:2ag3IFq9ZDANvthTwTiqSSZLjDc+BedvHPAp5tJy2TI=
 github.com/huandu/xstrings v1.5.0/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
@@ -566,7 +564,6 @@ gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 h1:yiW+nvdHb9LVqSHQBXfZCieqV
 gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637/go.mod h1:BHsqpu/nsuzkT5BpiH1EMZPLyqSMM8JbIavyFACoFNk=
 gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0/go.mod h1:WDnlLJ4WF5VGsH/HVa3CI79GS0ol3YnhVnKP89i0kNg=
 gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
-gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
 gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
 gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=

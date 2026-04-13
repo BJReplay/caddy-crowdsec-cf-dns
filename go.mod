@@ -5,7 +5,7 @@ go 1.25.7
 require (
 	github.com/caddy-dns/cloudflare v0.2.4
 	github.com/caddyserver/caddy/v2 v2.11.2
-	github.com/hslatman/caddy-crowdsec-bouncer v0.11.0
+	github.com/hslatman/caddy-crowdsec-bouncer v0.12.0
 )
 
 require (
@@ -36,7 +36,6 @@ require (
 	github.com/coreos/go-oidc/v3 v3.17.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.7 // indirect
 	github.com/crowdsecurity/crowdsec v1.6.3 // indirect
-	github.com/crowdsecurity/go-cs-bouncer v0.0.14 // indirect
 	github.com/crowdsecurity/go-cs-lib v0.0.15 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dgraph-io/badger v1.6.2 // indirect
@@ -72,7 +71,7 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.14 // indirect
 	github.com/googleapis/gax-go/v2 v2.18.0 // indirect
-	github.com/hslatman/ipstore v0.4.0 // indirect
+	github.com/hslatman/ipstore v0.5.0 // indirect
 	github.com/huandu/xstrings v1.5.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
@@ -162,7 +161,6 @@ require (
 	google.golang.org/protobuf v1.36.11 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	howett.net/plist v1.0.0 // indirect
 )
