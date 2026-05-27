@@ -4,7 +4,7 @@
 
 
 # caddy-crowdsec-cf-dns
-Caddy with Crowdsec Bouncer and Security and Cloudflare DNS module in a Docker image for linux/amd64 and linux/arm64 (perfect for Oracle Cloud Free)
+Caddy with Crowdsec Bouncer Plugin and Security App and Plugin and Cloudflare DNS module in a Docker image for linux/amd64 and linux/arm64 (perfect for Oracle Cloud Free)
 
 See individual sources for information on how to set up and configure, but you're probably here because you know you need all three and found this repository.
 
