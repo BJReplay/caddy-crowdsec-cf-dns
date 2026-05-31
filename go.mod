@@ -6,7 +6,7 @@ require (
 	github.com/caddy-dns/cloudflare v0.2.4
 	github.com/caddyserver/caddy/v2 v2.11.3
 	github.com/greenpau/caddy-security v1.1.62
-	github.com/hslatman/caddy-crowdsec-bouncer v0.12.1
+	github.com/hslatman/caddy-crowdsec-bouncer v0.13.1
 )
 
 require (
@@ -113,7 +113,7 @@ require (
 	github.com/mattn/go-isatty v0.0.22 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/acmez/v3 v3.1.6 // indirect
-	github.com/mholt/caddy-l4 v0.0.0-20231016112149-a362a1fbf652 // indirect
+	github.com/mholt/caddy-l4 v0.1.1 // indirect
 	github.com/miekg/dns v1.1.72 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/go-ps v1.0.0 // indirect
@@ -185,7 +185,7 @@ require (
 	go.step.sm/crypto v0.77.1 // indirect
 	go.uber.org/automaxprocs v1.6.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	go.uber.org/zap v1.27.1 // indirect
+	go.uber.org/zap v1.28.0 // indirect
 	go.uber.org/zap/exp v0.3.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.4 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
