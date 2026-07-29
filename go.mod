@@ -6,7 +6,7 @@ require (
 	github.com/caddy-dns/cloudflare v0.2.4
 	github.com/caddyserver/caddy/v2 v2.11.4
 	github.com/greenpau/caddy-security v1.1.64
-	github.com/hslatman/caddy-crowdsec-bouncer v0.13.1
+	github.com/hslatman/caddy-crowdsec-bouncer v0.14.0
 )
 
 require (
