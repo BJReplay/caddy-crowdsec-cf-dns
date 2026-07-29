@@ -281,8 +281,8 @@ github.com/grpc-ecosystem/grpc-gateway/v2 v2.29.0/go.mod h1:Hyl3n6Twe1hvtd9XUXDe
 github.com/hashicorp/go-uuid v1.0.3 h1:2gKiV6YVmrJ1i2CKKa9obLvRieoRGviZFL26PcT/Co8=
 github.com/hashicorp/go-uuid v1.0.3/go.mod h1:6SBZvOh/SIDV7/2o3Jml5SYk/TvGqwFJ/bN7x4byOro=
 github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T20WEQ=
-github.com/hslatman/caddy-crowdsec-bouncer v0.13.1 h1:vwEygkpxlBLLvkxEtONfQLib2bPcJWqw8R9Y5gVoDGU=
-github.com/hslatman/caddy-crowdsec-bouncer v0.13.1/go.mod h1:IFPJ8eybgACdyhR4ZhdEyLqepn8F9dkcGFSnsS2rDAo=
+github.com/hslatman/caddy-crowdsec-bouncer v0.14.0 h1:0sCxQSMK2fvMpKEUgUAvscz+hTAHxpEtpeZq8Dub15A=
+github.com/hslatman/caddy-crowdsec-bouncer v0.14.0/go.mod h1:IFPJ8eybgACdyhR4ZhdEyLqepn8F9dkcGFSnsS2rDAo=
 github.com/hslatman/ipstore v0.5.0 h1:pFbh8OKWOCttHwMvjtF9O02vPKI5HSHlhRk5hlO82rk=
 github.com/hslatman/ipstore v0.5.0/go.mod h1:IauyP66Q5kk1mfjysfAfa2Y4AnN7tFLYJlYHhkPlEPY=
 github.com/huandu/xstrings v1.5.0 h1:2ag3IFq9ZDANvthTwTiqSSZLjDc+BedvHPAp5tJy2TI=
