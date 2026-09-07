@@ -4,6 +4,6 @@
 [submodule "github/cloudflare"]
 	path = github/cloudflare
 	url = https://github.com/caddy-dns/cloudflare
-[submodule "github/caddy-security"]
-	path = github/caddy-security
-	url = https://github.com/greenpau/caddy-security
+[submodule "github/caddy-webdav"]
+	path = github/caddy-webdav
+	url = https://github.com/mholt/caddy-webdav
