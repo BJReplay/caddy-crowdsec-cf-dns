@@ -12,8 +12,6 @@ Caddy: https://github.com/caddyserver/caddy
 
 CrowdSec Bouncer for Caddy: https://github.com/hslatman/caddy-crowdsec-bouncer
 
-WebDAV for Caddy: https://github.com/mholt/caddy-webdav
-
 Cloudflare module for Caddy: https://github.com/caddy-dns/cloudflare
 
 Dependabot should rebuild if any of the modules change, and push to Docker.
