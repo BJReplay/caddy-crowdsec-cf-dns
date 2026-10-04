@@ -1,3 +1,7 @@
+## v2.11.7
+
+Based on Caddy 2.11.7
+
 ## v2.11.6
 
 Based on Caddy 2.11.6
