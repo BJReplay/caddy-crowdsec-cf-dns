@@ -4,7 +4,7 @@ go 1.26.1
 
 require (
 	github.com/caddy-dns/cloudflare v0.2.4
-	github.com/caddyserver/caddy/v2 v2.11.8
+	github.com/caddyserver/caddy/v2 v2.11.9
 	github.com/hslatman/caddy-crowdsec-bouncer v0.15.0
 	github.com/mholt/caddy-webdav v0.0.0-20260127042217-fa2f366b0d75
 )
