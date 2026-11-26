@@ -253,6 +253,8 @@ github.com/grpc-ecosystem/grpc-gateway/v2 v2.30.0/go.mod h1:zOBXOsUaBSjKgmH4OGzV
 github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T20WEQ=
 github.com/hslatman/caddy-crowdsec-bouncer v0.15.0 h1:jjYR1YpbI/FOFOdQEF+EfeubI0VZIg7dbd9gfVgAGAQ=
 github.com/hslatman/caddy-crowdsec-bouncer v0.15.0/go.mod h1:g+bQYq1OoKHBj5Bk0iP+8P8c4+03NH2py7SgoMmtY9M=
+github.com/hslatman/caddy-crowdsec-bouncer v0.15.1 h1:mBzIS1Hg8H7PuWI52xbixR/aWeY8QO0MFdSFabsBtq4=
+github.com/hslatman/caddy-crowdsec-bouncer v0.15.1/go.mod h1:g+bQYq1OoKHBj5Bk0iP+8P8c4+03NH2py7SgoMmtY9M=
 github.com/hslatman/ipstore v0.5.0 h1:pFbh8OKWOCttHwMvjtF9O02vPKI5HSHlhRk5hlO82rk=
 github.com/hslatman/ipstore v0.5.0/go.mod h1:IauyP66Q5kk1mfjysfAfa2Y4AnN7tFLYJlYHhkPlEPY=
 github.com/huandu/xstrings v1.6.1 h1:yYdKSd6Sjv3fNZt9BDjl1FDsPNfQEaYi19L5LzK2JKs=
